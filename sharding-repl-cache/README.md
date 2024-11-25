@@ -8,10 +8,10 @@
 docker compose up -d
 ```
 
-Заполняем mongodb данными
+Инициализировать шарды, реплики, кэш заполнить mongodb данными
 
 ```shell
-./scripts/mongo-init.sh
+./scripts/init.sh
 ```
 
 ## Как проверить
