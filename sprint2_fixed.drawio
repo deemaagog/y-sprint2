@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.9">
   <diagram name="Page-1" id="-H_mtQnk-PTXWXPvYvuk">
-    <mxGraphModel dx="1235" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1544" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_E_3jLBZ6nuG1KN7ZyXX-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="_E_3jLBZ6nuG1KN7ZyXX-64" target="_E_3jLBZ6nuG1KN7ZyXX-50">
+        <mxCell id="_E_3jLBZ6nuG1KN7ZyXX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_E_3jLBZ6nuG1KN7ZyXX-64" target="_E_3jLBZ6nuG1KN7ZyXX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_E_3jLBZ6nuG1KN7ZyXX-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -73,11 +73,8 @@
         <mxCell id="_E_3jLBZ6nuG1KN7ZyXX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_E_3jLBZ6nuG1KN7ZyXX-22" target="_E_3jLBZ6nuG1KN7ZyXX-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_E_3jLBZ6nuG1KN7ZyXX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="_E_3jLBZ6nuG1KN7ZyXX-50" target="_E_3jLBZ6nuG1KN7ZyXX-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_E_3jLBZ6nuG1KN7ZyXX-50" value="Redis (кэш)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="255" y="-140" width="570" height="180" as="geometry" />
+          <mxGeometry x="210" y="-100" width="255" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_E_3jLBZ6nuG1KN7ZyXX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="_E_3jLBZ6nuG1KN7ZyXX-19" target="_E_3jLBZ6nuG1KN7ZyXX-20">
           <mxGeometry relative="1" as="geometry" />
@@ -124,6 +121,14 @@
         <mxCell id="_E_3jLBZ6nuG1KN7ZyXX-72" value="статические запросы (css,js, img)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_E_3jLBZ6nuG1KN7ZyXX-71">
           <mxGeometry x="0.1546" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_E_3jLBZ6nuG1KN7ZyXX-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.421;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="_E_3jLBZ6nuG1KN7ZyXX-64" target="_E_3jLBZ6nuG1KN7ZyXX-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="-155" />
+              <mxPoint x="317" y="-155" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
